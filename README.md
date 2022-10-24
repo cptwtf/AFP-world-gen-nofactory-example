@@ -1,0 +1,1 @@
+# AFP-world-gen-nofactory-example
